@@ -419,7 +419,7 @@ public final class UserExt {
     /**
      * Default commenter role.
      */
-    public static final String DEFAULT_CMTER_ROLE = "defaultCommenterRole";
+    public static final String DEFAULT_CMTER_ROLE = "adminRole";
 
     //// Null user
     /**
