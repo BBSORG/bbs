@@ -5,7 +5,7 @@
     <div class="module-header">
         <h2>
             ${sponsorLabel}
-            <a href="https://hacpai.com/article/1460083956075" class="fn-right ft-13 ft-gray" target="_blank">${wantPutOnLabel}</a>
+            <a href="https://chengzz.vip" class="fn-right ft-13 ft-gray" target="_blank">${wantPutOnLabel}</a>
         </h2>
     </div>
     <div class="module-panel ad fn-clear">
@@ -64,29 +64,29 @@
             ${recommendedTags}
         </h2>
     </div>
-    <div class="module-panel">
-        <ul class="tag-desc fn-clear">
-            <#list sideTags as tag>
-            <li>
-                <a rel="nofollow" href="${servePath}/tag/${tag.tagURI}">
-                    <#if tag.tagIconPath!="">
-                    <img src="${staticServePath}/images/tags/${tag.tagIconPath}" alt="${tag.tagTitle}" /></#if>
-                    ${tag.tagTitle}
-                </a>
-                <div<#if tag.tagDescription == ''> style="width:auto"</#if>>
-                    <div>${tag.tagDescription}</div>
-                    <span class="fn-right">
-                        <span class="ft-gray">${referenceLabel}</span>
-                        ${tag.tagReferenceCount} &nbsp;
-                        <span class="ft-gray">${cmtLabel}</span>
-                        ${tag.tagCommentCount}&nbsp;
-                    </span>
+    <#--<div class="module-panel">-->
+        <#--<ul class="tag-desc fn-clear">-->
+            <#--<#list sideTags as tag>-->
+            <#--<li>-->
+                <#--<a rel="nofollow" href="${servePath}/tag/${tag.tagURI}">-->
+                    <#--<#if tag.tagIconPath!="">-->
+                    <#--<img src="${staticServePath}/images/tags/${tag.tagIconPath}" alt="${tag.tagTitle}" /></#if>-->
+                    <#--${tag.tagTitle}-->
+                <#--</a>-->
+                <#--<div<#if tag.tagDescription == ''> style="width:auto"</#if>>-->
+                    <#--<div>${tag.tagDescription}</div>-->
+                    <#--<span class="fn-right">-->
+                        <#--<span class="ft-gray">${referenceLabel}</span>-->
+                        <#--${tag.tagReferenceCount} &nbsp;-->
+                        <#--<span class="ft-gray">${cmtLabel}</span>-->
+                        <#--${tag.tagCommentCount}&nbsp;-->
+                    <#--</span>-->
 
-                </div>
-            </li>
-            </#list>
-        </ul>
-    </div>
+                <#--</div>-->
+            <#--</li>-->
+            <#--</#list>-->
+        <#--</ul>-->
+    <#--</div>-->
 </div>
 </#if>
 <#if sideRandomArticles?size!=0>

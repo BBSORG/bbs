@@ -5,11 +5,11 @@
 <html>
     <head>
         <#if type == "home">
-        <@head title="${articleLabel} - ${user.userName} - ${symphonyLabel}">
+        <@head title="${articleLabel} - ${user.userName}">
         <meta name="description" content="<#list userHomeArticles as article><#if article_index<3>${article.articleTitle},</#if></#list>"/>
         </@head>
         <#elseif type == "comments">
-        <@head title="${cmtLabel} - ${user.userName} - ${symphonyLabel}">
+        <@head title="${cmtLabel} - ${user.userName}">
         <meta name="description" content="${user.userName}${deLabel}${cmtLabel}"/>
         </@head>
         <#elseif type == "followingUsers">

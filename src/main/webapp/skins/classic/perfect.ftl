@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <@head title="${perfectLabel} - ${symphonyLabel}">
+        <@head title="${perfectLabel}">
         <meta name="description" content="${symDescriptionLabel}"/>
         </@head>
         <link rel="stylesheet" href="${staticServePath}/css/index.css?${staticResourceVersion}" />

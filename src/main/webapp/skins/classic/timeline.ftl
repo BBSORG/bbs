@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <@head title="${timelineLabel} - ${symphonyLabel}">
+        <@head title="${timelineLabel}">
         <meta name="description" content="${timelineLabel}"/>
         </@head>
         <link rel="stylesheet" href="${staticServePath}/css/index.css?${staticResourceVersion}" />

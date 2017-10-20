@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <@head title="${latestLabel} - ${symphonyLabel}">
+        <@head title="${latestLabel}">
         <meta name="description" content="${symDescriptionLabel}"/>
         </@head>
         <link rel="stylesheet" href="${staticServePath}/css/index.css?${staticResourceVersion}" />

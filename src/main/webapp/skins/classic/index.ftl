@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <@head title="${symphonyLabel}">
+        <@head title="北漂小屋">
         <meta name="description" content="${symDescriptionLabel}"/>
         </@head>
         <link rel="stylesheet" href="${staticServePath}/css/index.css?${staticResourceVersion}" />
@@ -128,19 +128,19 @@
                     <div class="index-main">
                         <div class="metro-line fn-flex">
                             <div class="metro-item">
-                                <a class="preview" href="${servePath}/tag/${tag0.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag0.tagIconPath}" alt="${tag0.tagTitle}">
                                     <b>${tag0.tagTitle}</b>
                                 </a>
                             </div>
                             <div class="metro-item mid">
-                                <a class="preview" href="${servePath}/tag/${tag1.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag1.tagIconPath}" alt="${tag1.tagTitle}">
                                     <b>${tag1.tagTitle}</b>
                                 </a>
                             </div>
                             <div class="metro-item">
-                                <a class="preview" href="${servePath}/tag/${tag2.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag2.tagIconPath}" alt="${tag2.tagTitle}">
                                     <b>${tag2.tagTitle}</b>
                                 </a>
@@ -148,19 +148,19 @@
                         </div>
                         <div class="metro-line fn-flex">
                             <div class="metro-item">
-                                <a class="preview" href="${servePath}/tag/${tag3.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag3.tagIconPath}" alt="${tag3.tagTitle}">
                                     <b>${tag3.tagTitle}</b>
                                 </a>
                             </div>
                             <div class="metro-item mid">
-                                <a class="preview" href="${servePath}/tag/${tag4.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag4.tagIconPath}" alt="${tag4.tagTitle}">
                                     <b>${tag4.tagTitle}</b>
                                 </a>
                             </div>
                             <div class="metro-item">
-                                <a class="preview" href="${servePath}/tag/${tag5.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag5.tagIconPath}" alt="${tag5.tagTitle}">
                                     <b>${tag5.tagTitle}</b>
                                 </a>
@@ -168,19 +168,19 @@
                         </div>
                         <div class="metro-line fn-flex">
                             <div class="metro-item">
-                                <a class="preview" href="${servePath}/tag/${tag6.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag6.tagIconPath}" alt="${tag6.tagTitle}">
                                     <b>${tag6.tagTitle}</b>
                                 </a>
                             </div>
                             <div class="metro-item mid">
-                                <a class="preview" href="${servePath}/tag/${tag7.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag7.tagIconPath}" alt="${tag7.tagTitle}">
                                     <b>${tag7.tagTitle}</b>
                                 </a>
                             </div>
                             <div class="metro-item">
-                                <a class="preview" href="${servePath}/tag/${tag8.tagURI}">
+                                <a class="preview" href="http://116.196.99.65:9000/archives">
                                     <img src="${staticServePath}/images/tags/${tag8.tagIconPath}" alt="${tag8.tagTitle}">
                                     <b>${tag8.tagTitle}</b>
                                 </a>
@@ -210,13 +210,13 @@
                     <div class="metro-line fn-flex">
                         <div class="metro-item">
                             <!-- ${ADLabel} -->
-                            <a class="preview" href="https://hacpai.com/man">
+                            <a class="preview" href="http://116.196.99.65:9000/archives">
                                 <img width="44px" src="${staticServePath}/images/tags/shell.png" alt="${sponsorLabel}">
                                 <b>Hacker's Manual</b>
                             </a>
                         </div>
                         <div class="metro-item last">
-                            <a class="preview" href="https://hacpai.com/article/1460083956075">
+                            <a class="preview" href="http://116.196.99.65:9000/archives">
                                 <img width="44px" src="${staticServePath}/emoji/graphics/heart.png" alt="${sponsorLabel}">
                                 <b>${adDeliveryLabel}</b>
                             </a>
