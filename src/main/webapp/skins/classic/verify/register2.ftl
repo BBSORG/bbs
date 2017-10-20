@@ -1,4 +1,4 @@
-<#include "../macro-head.ftl">
+register<#include "../macro-head.ftl">
 <!DOCTYPE html>
 <html>
     <head>

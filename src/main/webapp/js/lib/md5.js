@@ -172,3 +172,5 @@ function calcMD5(str)
     }
     return rhex(a) + rhex(b) + rhex(c) + rhex(d);
 }
+
+
