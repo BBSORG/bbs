@@ -5,6 +5,7 @@
     <head>
         <@head title="北漂小屋">
         <meta name="description" content="${symDescriptionLabel}"/>
+        <meta name="baidu-site-verification" content="ZOtd0tHqiO" />
         </@head>
         <link rel="stylesheet" href="${staticServePath}/css/index.css?${staticResourceVersion}" />
         <link rel="canonical" href="${servePath}">

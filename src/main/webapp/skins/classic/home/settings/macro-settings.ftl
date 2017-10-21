@@ -38,10 +38,10 @@
                                 <a href="${servePath}/settings/location"<#if 'location' == type> class="current"</#if>>${geoLabel}</a>
                                 <a href="${servePath}/settings/privacy"<#if 'privacy' == type> class="current"</#if>>${privacyLabel}</a>
                                 <a href="${servePath}/settings/password"<#if 'password' == type> class="current"</#if>>${passwordLabel}</a>
-                                <a href="${servePath}/settings/b3"<#if 'b3' == type> class="current"</#if>>B3</a>
+                                <#--<a href="${servePath}/settings/b3"<#if 'b3' == type> class="current"</#if>>B3</a>-->
                                 <a href="${servePath}/settings/data"<#if 'data' == type> class="current"</#if>>${dataLabel}</a>
                                 <a href="${servePath}/settings/i18n"<#if 'i18n' == type> class="current"</#if>>${i18nLabel}</a>
-                                <a href="${servePath}/settings/help"<#if 'help' == type> class="current"</#if>>${helpLabel}</a>
+                                <#--<a href="${servePath}/settings/help"<#if 'help' == type> class="current"</#if>>${helpLabel}</a>-->
                             </nav>
                         </div>
                     </div>

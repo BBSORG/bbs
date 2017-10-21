@@ -46,7 +46,7 @@
                         <div class="module-header">
                             <h2>
                                 ${sponsorLabel} 
-                                <a href="https://hacpai.com/article/1460083956075" class="fn-right ft-13 ft-gray" target="_blank">${wantPutOnLabel}</a>
+                                <a href="http://chengzz.vip" class="fn-right ft-13 ft-gray" target="_blank">${wantPutOnLabel}</a>
                             </h2>
                         </div>
                         <div class="module-panel ad fn-clear">
@@ -62,16 +62,16 @@
                         <div class="module-panel">
                             <ul class="module-list open-source">
                                 <li>
-                                    <a target="_blank" href="https://github.com/b3log/solo"><b class="ft-red slogan">【Solo】</b></a>
-                                    <a class="title" target="_blank" href="https://github.com/b3log/solo">GitHub 上 Star 数最多的 Java 博客</a>
+                                    <a target="_blank" href="https://github.com/xingdong015"><b class="ft-red slogan">【Git】</b></a>
+                                    <a class="title" target="_blank" href="https://github.com/xingdong015">我的github</a>
                                 </li>
                                 <li>
-                                    <a target="_blank" href="https://github.com/b3log/wide"><b class="ft-blue slogan">【Wide】</b></a>
-                                    <a class="title" target="_blank" href="https://github.com/b3log/wide">Golang 黑科技之在线 IDE </a>
+                                    <a target="_blank" href="http://116.196.99.65:9000/archives"><b class="ft-blue slogan">【博客】</b></a>
+                                    <a class="title" target="_blank" href="http://116.196.99.65:9000/archives">我的博客 </a>
                                 </li>
                                 <li class="last">
-                                    <a target="_blank" href="https://github.com/b3log/symphony"> <b class="ft-green slogan">【Sym】</b></a>
-                                    <a class="title" target="_blank" href="https://github.com/b3log/symphony"> 黑客与画家的社区</a>
+                                    <a target="_blank" href="https://chengzz.vip"> <b class="ft-green slogan">【空间】</b></a>
+                                    <a class="title" target="_blank" href="https://chengzz.vip"> 我的空间</a>
                                 </li>
                             </ul>
                         </div>
