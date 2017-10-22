@@ -59,8 +59,8 @@
                                     <a class="title" target="_blank" href="https://github.com/xingdong015">我的github</a>
                                 </li>
                                 <li>
-                                    <a target="_blank" href="http://116.196.99.65:9000/archives"><b class="ft-blue slogan">【博客】</b></a>
-                                    <a class="title" target="_blank" href="http://116.196.99.65:9000/archives">我的博客 </a>
+                                    <a target="_blank" href="http://chengzz.vip"><b class="ft-blue slogan">【博客】</b></a>
+                                    <a class="title" target="_blank" href="http://chengzz.vip">我的博客 </a>
                                 </li>
                                 <li class="last">
                                     <a target="_blank" href="https://chengzz.vip"> <b class="ft-green slogan">【空间】</b></a>

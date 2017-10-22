@@ -18,12 +18,12 @@
     <div class="module-panel">
         <ul class="module-list open-source">
             <li>
-                <a target="_blank" href="https://github.com/xingdong015"><b class="ft-red slogan">【Git】</b></a>
-                <a class="title" target="_blank" href="https://github.com/xingdong015">我的github</a>
+                <a target="_blank" href="http://chengzz.vip"><b class="ft-red slogan">【Git】</b></a>
+                <a class="title" target="_blank" href="http://chengzz.vip">我的github</a>
             </li>
             <li>
-                <a target="_blank" href="http://116.196.99.65:9000/archives"><b class="ft-blue slogan">【博客】</b></a>
-                <a class="title" target="_blank" href="http://116.196.99.65:9000/archives">我的博客 </a>
+                <a target="_blank" href="http://chengzz.vip"><b class="ft-blue slogan">【博客】</b></a>
+                <a class="title" target="_blank" href="http://chengzz.vip">我的博客 </a>
             </li>
             <li class="last">
                 <a target="_blank" href="https://chengzz.vip"> <b class="ft-green slogan">【空间】</b></a>
@@ -86,7 +86,7 @@
         <ul class="tag-desc fn-clear">
             <#list sideTags as tag>
             <li>
-                <a rel="nofollow" href="http://116.196.99.65:9000/archives">
+                <a rel="nofollow" href="http://chengzz.vip">
                     <#if tag.tagIconPath!="">
                     <img src="${staticServePath}/images/tags/${tag.tagIconPath}" alt="${tag.tagTitle}" /></#if>
                     ${tag.tagTitle}

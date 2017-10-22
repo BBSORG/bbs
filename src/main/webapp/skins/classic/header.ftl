@@ -18,7 +18,7 @@
         </#if>
         <a href="${servePath}/timeline"<#if selected?? && 'timeline' == selected> class="current"</#if>>
            <svg><use xlink:href="#view"></use></svg> ${timelineLabel}</a>
-        <a href="http://116.196.99.65:9000/archives"<#if selected?? && 'book' == selected> class="current"</#if>>
+        <a href="http://chengzz.vip"<#if selected?? && 'book' == selected> class="current"</#if>>
            <svg><use xlink:href="#book"></use></svg> 我的博客</a>
     </div>
     <#if esEnabled || algoliaEnabled>
